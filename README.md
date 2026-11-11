@@ -10,6 +10,8 @@ The goal is to help people discover useful AI tools for learning, coding, writin
 - "Google Gemini" (https://gemini.google.com/) — AI assistant for research, writing, and productivity.
 - "Claude" (https://claude.ai/) — AI assistant for writing, analysis, and coding.
 
+- "Orkas" (https://orkas.ai/?source=gh_r08012938) — Turn project files into reports and presentations with a desktop AI team. Open-source and local-first for macOS and Windows; Commander coordinates specialist agents. The core app is free; model usage and optional services may cost extra.
+
 💻 AI Coding
 
 - "GitHub Copilot" (https://github.com/features/copilot) — AI-powered coding assistance.
