@@ -36,6 +36,10 @@ The goal is to help people discover useful AI tools for learning, coding, writin
 
 - Add useful AI tools for everyday tasks here.
 
+🎭 AI Character Chat
+
+- "Sammi" (https://sammiai.app/) — Android fictional-character text and voice chat, character customization, and creative roleplay.
+
 🤝 Contributing
 
 Know a useful AI tool?
